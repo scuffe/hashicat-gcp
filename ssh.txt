@@ -1,0 +1,5 @@
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC87JwxRdawxDg7gwR4QRHL8A/MvA0IfU3IjXFYC9PEqxqFvKhEKiqAqTPjscE8ma+TvN0FkkST+AWK4tpcfz5IeitNsF8CjIyHICcRF2/mPJddINYmUjfDKSq4N06+voVoVZdHzR2KftnGFaEShJyx4VDoyfUkBlCN3PDRknYNhHmerjV5zrssTWXFX008ORe9YceME/TPZDdWjqe7XB++0KFNgoKlLbEKzUDPAoMI91CEm7FplMVpuq4jPboJGZdxdanveuTO8F+X2oyPGTQAAMq6zLkelaLK7kfVgfGedHOyEGwnOiJcmUjbgln2DBQPaObxlB6TbqIgTKX/e9Mt root@workstation
+
+
+git remote add origin git@github.com:scuffe/hashicat-gcp.git
+git push -u origin master
